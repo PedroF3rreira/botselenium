@@ -44,13 +44,13 @@ class Wppbot:
 
 	
 	def saudacoe(self, frase_inicial):
-		self.caixa_menssagen = self.driver.find_element(By.CLASS_NAME, '_2lSWV')
+		self.caixa_menssagen = self.driver.find_element(By.CLASS_NAME, '_3Uu1_')
 
 		if type(frase_inicial) == list:
 			for frase in frase_inicial:
 				self.caixa_menssagen.send_keys(frase)
 				time.sleep(1)
-				self.botao_enviar = self.driver.find_element(By.CLASS_NAME, 'tvf2evcx')
+				self.botao_enviar = self.driver.find_element(By.XPATH, "//button[@aria-label='Enviar']")
 				self.botao_enviar.click()
 				time.sleep(1)
 		else:
@@ -58,9 +58,9 @@ class Wppbot:
 
 
 	def escuta(self):
-		post = self.driver.find_element_by_class_name('_3_7SH')
+		post = self.driver.find_elements(By.CLASS_NAME, '_21Ahp')
 		ultimo = len(post) - 1
-		texto = post[ultimo].find_element_by_css_selector('span.selectable-text').text
+		texto = post[ultimo].find_element(By.CSS_SELECTOR, 'span.selectable-text').text
 		return texto
 
 
@@ -69,10 +69,10 @@ class Wppbot:
 		response = str(response)
 		response = 'bot:' + response
 
-		self.caixa_menssagen = self.find_element_by_class_name('_2S1VP')
+		self.caixa_menssagen = self.driver.find_element(By.CLASS_NAME, '_3Uu1_')
 		self.caixa_menssagen.send_keys(response)
 		time.sleep(1)
-		self.botao_enviar = self.find_element_by_class_name('_35EW6')
+		self.botao_enviar = self.driver.find_element(By.XPATH, "//button[@aria-label='Enviar']")
 		self.botao_enviar.click()
 
 

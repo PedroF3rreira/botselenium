@@ -1,8 +1,6 @@
-[12356:10632:0508/180541.390:WARNING:chrome_main_delegate.cc(589)] This is Chrome version 113.0.5672.64 (not a warning)
-[12356:10632:0508/180541.476:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
-[12356:10632:0508/180541.476:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
-[12356:10632:0508/180544.868:ERROR:device_event_log_impl.cc(222)] [18:05:44.868] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema não pode encontrar o arquivo especificado. (0x2)
-[12356:10632:0508/180551.939:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[12356:10632:0508/180602.497:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[12356:10632:0508/180602.499:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[12356:10632:0508/180610.128:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1604:11472:0508/101301.870:WARNING:chrome_main_delegate.cc(589)] This is Chrome version 113.0.5672.93 (not a warning)
+[1604:11472:0508/101301.944:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[1604:11472:0508/101301.944:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[1604:11472:0508/101305.338:ERROR:device_event_log_impl.cc(222)] [10:13:05.338] USB: usb_service_win.cc:415 Could not read device interface GUIDs: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1604:13576:0508/101351.984:WARNING:page_discarding_helper.cc(129)] Discarding multiple pages with target (kb): 0
+[1604:7124:0508/101411.987:WARNING:page_discarding_helper.cc(129)] Discarding multiple pages with target (kb): 0

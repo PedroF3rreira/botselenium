@@ -1,3 +1,28 @@
-2023/05/08-18:04:15.068 3208 Reusing MANIFEST C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/08-18:04:15.069 3208 Recovering log #155
-2023/05/08-18:04:15.076 3208 Reusing old log C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000155.log 
+2023/05/08-10:02:52.165 25f0 Reusing MANIFEST C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/08-10:02:52.166 25f0 Recovering log #345
+2023/05/08-10:02:52.224 25f0 Reusing old log C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000345.log 
+2023/05/08-10:03:34.690 2a34 Level-0 table #358: started
+2023/05/08-10:03:34.721 2a34 Level-0 table #358: 1066827 bytes OK
+2023/05/08-10:03:34.724 2a34 Delete type=0 #345
+2023/05/08-10:03:43.886 25f0 Compacting 1@1 + 9@2 files
+2023/05/08-10:03:43.960 25f0 Generated table #359@1: 42819 keys, 2203315 bytes
+2023/05/08-10:03:43.997 25f0 Generated table #360@1: 1681 keys, 2148963 bytes
+2023/05/08-10:03:44.036 25f0 Generated table #361@1: 2190 keys, 2153828 bytes
+2023/05/08-10:03:44.078 25f0 Generated table #362@1: 2710 keys, 2156608 bytes
+2023/05/08-10:03:44.148 25f0 Generated table #363@1: 20006 keys, 2221713 bytes
+2023/05/08-10:03:44.224 25f0 Generated table #364@1: 22607 keys, 2239886 bytes
+2023/05/08-10:03:44.290 25f0 Generated table #365@1: 50215 keys, 2184858 bytes
+2023/05/08-10:03:44.388 25f0 Generated table #366@1: 108301 keys, 2261214 bytes
+2023/05/08-10:03:44.447 25f0 Generated table #367@1: 63527 keys, 1353883 bytes
+2023/05/08-10:03:44.447 25f0 Compacted 1@1 + 9@2 files => 18924268 bytes
+2023/05/08-10:03:44.449 25f0 compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/05/08-10:03:44.449 25f0 Delete type=2 #347
+2023/05/08-10:03:44.449 25f0 Delete type=2 #348
+2023/05/08-10:03:44.449 25f0 Delete type=2 #349
+2023/05/08-10:03:44.450 25f0 Delete type=2 #350
+2023/05/08-10:03:44.450 25f0 Delete type=2 #351
+2023/05/08-10:03:44.450 25f0 Delete type=2 #352
+2023/05/08-10:03:44.450 25f0 Delete type=2 #353
+2023/05/08-10:03:44.450 25f0 Delete type=2 #354
+2023/05/08-10:03:44.450 25f0 Delete type=2 #355
+2023/05/08-10:03:44.450 25f0 Delete type=2 #358

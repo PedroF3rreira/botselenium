@@ -1,28 +1,25 @@
-2023/05/08-10:02:52.165 25f0 Reusing MANIFEST C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/08-10:02:52.166 25f0 Recovering log #345
-2023/05/08-10:02:52.224 25f0 Reusing old log C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000345.log 
-2023/05/08-10:03:34.690 2a34 Level-0 table #358: started
-2023/05/08-10:03:34.721 2a34 Level-0 table #358: 1066827 bytes OK
-2023/05/08-10:03:34.724 2a34 Delete type=0 #345
-2023/05/08-10:03:43.886 25f0 Compacting 1@1 + 9@2 files
-2023/05/08-10:03:43.960 25f0 Generated table #359@1: 42819 keys, 2203315 bytes
-2023/05/08-10:03:43.997 25f0 Generated table #360@1: 1681 keys, 2148963 bytes
-2023/05/08-10:03:44.036 25f0 Generated table #361@1: 2190 keys, 2153828 bytes
-2023/05/08-10:03:44.078 25f0 Generated table #362@1: 2710 keys, 2156608 bytes
-2023/05/08-10:03:44.148 25f0 Generated table #363@1: 20006 keys, 2221713 bytes
-2023/05/08-10:03:44.224 25f0 Generated table #364@1: 22607 keys, 2239886 bytes
-2023/05/08-10:03:44.290 25f0 Generated table #365@1: 50215 keys, 2184858 bytes
-2023/05/08-10:03:44.388 25f0 Generated table #366@1: 108301 keys, 2261214 bytes
-2023/05/08-10:03:44.447 25f0 Generated table #367@1: 63527 keys, 1353883 bytes
-2023/05/08-10:03:44.447 25f0 Compacted 1@1 + 9@2 files => 18924268 bytes
-2023/05/08-10:03:44.449 25f0 compacted to: files[ 0 0 9 0 0 0 0 ]
-2023/05/08-10:03:44.449 25f0 Delete type=2 #347
-2023/05/08-10:03:44.449 25f0 Delete type=2 #348
-2023/05/08-10:03:44.449 25f0 Delete type=2 #349
-2023/05/08-10:03:44.450 25f0 Delete type=2 #350
-2023/05/08-10:03:44.450 25f0 Delete type=2 #351
-2023/05/08-10:03:44.450 25f0 Delete type=2 #352
-2023/05/08-10:03:44.450 25f0 Delete type=2 #353
-2023/05/08-10:03:44.450 25f0 Delete type=2 #354
-2023/05/08-10:03:44.450 25f0 Delete type=2 #355
-2023/05/08-10:03:44.450 25f0 Delete type=2 #358
+2023/05/10-08:33:59.403 2080 Reusing MANIFEST C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/10-08:33:59.404 2080 Recovering log #380
+2023/05/10-08:33:59.432 2080 Reusing old log C:\Users\Administrador\Documents\chatbotwhatsapp\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000380.log 
+2023/05/10-08:33:59.432 2080 Delete type=2 #371
+2023/05/10-08:33:59.432 2080 Delete type=2 #372
+2023/05/10-08:33:59.432 2080 Delete type=2 #373
+2023/05/10-08:33:59.432 2080 Delete type=2 #374
+2023/05/10-08:33:59.432 2080 Delete type=2 #375
+2023/05/10-08:33:59.432 2080 Delete type=2 #376
+2023/05/10-08:33:59.432 2080 Delete type=2 #381
+2023/05/10-08:34:23.351 6dc Level-0 table #391: started
+2023/05/10-08:34:23.386 6dc Level-0 table #391: 1391329 bytes OK
+2023/05/10-08:34:23.388 6dc Delete type=0 #380
+2023/05/10-08:34:23.600 6dc Compacting 1@1 + 10@2 files
+2023/05/10-08:34:23.697 6dc Generated table #392@1: 51298 keys, 2219336 bytes
+2023/05/10-08:34:23.746 6dc Generated table #393@1: 1695 keys, 2149148 bytes
+2023/05/10-08:34:23.800 6dc Generated table #394@1: 1957 keys, 2150927 bytes
+2023/05/10-08:34:23.850 6dc Generated table #395@1: 2754 keys, 2155650 bytes
+2023/05/10-08:34:23.942 6dc Generated table #396@1: 15092 keys, 2194255 bytes
+2023/05/10-08:34:24.042 6dc Generated table #397@1: 26188 keys, 2267446 bytes
+2023/05/10-08:34:24.116 6dc Generated table #398@1: 22074 keys, 2159947 bytes
+2023/05/10-08:34:24.279 6dc Generated table #399@1: 109301 keys, 2262334 bytes
+2023/05/10-08:34:24.393 6dc Generated table #400@1: 95347 keys, 2025647 bytes
+2023/05/10-08:34:24.393 6dc Compacted 1@1 + 10@2 files => 19584690 bytes
+2023/05/10-08:34:24.394 6dc compacted to: files[ 0 0 9 0 0 0 0 ]

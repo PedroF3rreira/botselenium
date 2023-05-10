@@ -29,7 +29,7 @@ class Wppbot:
 	def iniciar(self, nome_contato):
 		# entra no link so wp
 		self.driver.get('https://web.whatsapp.com/')
-		self.driver.implicitly_wait(15)# aguarda 15 segundos
+		self.driver.implicitly_wait(30)# aguarda 15 segundos
 
 		# pega elemento da caixa de pesquisa
 
